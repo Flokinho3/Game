@@ -1,0 +1,10 @@
+{
+    "Janela": {
+        "Largura": 800,
+        "Altura": 600,
+        "Titulo": "Jogo",
+        "FPS": 60,
+        "ModoTela": "Fullscreen"
+    },
+    "CenaInicial": "Fundo1"
+}

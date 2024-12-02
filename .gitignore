@@ -13,7 +13,7 @@ __pycache__/
 *.swp
 
 # Ignorar arquivos de ambiente virtual
-venv/
+.venv/
 .env/
 .envrc
 
@@ -28,3 +28,7 @@ Game/Ambiente/Ambiente.json
 *.egg-info/
 dist/
 build/
+
+# Ignorar arquivos de depuraçao
+lista_bibilhotecas.py
+Pensamentos.txt

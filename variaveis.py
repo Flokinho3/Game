@@ -12,7 +12,7 @@ class Variaveis:
         if not os.path.exists(file_path):
             # Cria um JSON padrão
             data = {
-                'path': os.path.join(base_path, 'Game', 'Ambiente'),
+                'path': os.path.join(base_path, 'Game'),
                 'name': 'Ambiente.json',
                 'FILE_GAME_MAIN': 'main.py'
             }
