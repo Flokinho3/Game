@@ -1,1 +1,30 @@
-__pycache__
+# Ignorar caches e arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar variáveis e configurações temporárias do editor
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos de ambiente virtual
+venv/
+.env/
+.envrc
+
+# Ignorar o Ambiente.json da pasta do jogo
+Game/Ambiente/Ambiente.json
+
+# Ignorar arquivos compactados ou de build
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.egg-info/
+dist/
+build/
